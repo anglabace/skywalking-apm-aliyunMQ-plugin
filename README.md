@@ -3,9 +3,9 @@
 
 使用方法  
 
-1.将整个plugin文件夹放入 /apm-sniffer/apm-sdk-plugin 目录  
+1. 将整个plugin文件夹放入 /apm-sniffer/apm-sdk-plugin 目录  
 
-2.以module的形式导入项目  
+2. 以module的形式导入项目  
 
-3.make build.agent  
+3. make build.agent  
 
